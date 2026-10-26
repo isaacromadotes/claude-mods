@@ -1,0 +1,7 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Isaac Romà", "url": "https://github.com/isaacromadotes" },
+  "plugins": [
+    { "name": "token-tracker", "source": "./plugins/token-tracker", "description": "Pane lateral con % tokens de contexto y ventanas 5h/7d.", "version": "0.1.0" }
+  ]
+}
